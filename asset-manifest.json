@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/marcelineT/marcelineT.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/marcelineT/marcelineT.github.io/static/js/main.7e22bb22.js",
-    "static/js/787.21f76a5f.chunk.js": "/marcelineT/marcelineT.github.io/static/js/787.21f76a5f.chunk.js",
-    "static/media/logo.svg": "/marcelineT/marcelineT.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/marcelineT/marcelineT.github.io/index.html",
-    "main.073c9b0a.css.map": "/marcelineT/marcelineT.github.io/static/css/main.073c9b0a.css.map",
-    "main.7e22bb22.js.map": "/marcelineT/marcelineT.github.io/static/js/main.7e22bb22.js.map",
-    "787.21f76a5f.chunk.js.map": "/marcelineT/marcelineT.github.io/static/js/787.21f76a5f.chunk.js.map"
+    "main.css": "/peerctochat/static/css/main.073c9b0a.css",
+    "main.js": "/peerctochat/static/js/main.e217435c.js",
+    "static/js/787.21f76a5f.chunk.js": "/peerctochat/static/js/787.21f76a5f.chunk.js",
+    "static/media/logo.svg": "/peerctochat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/peerctochat/index.html",
+    "main.073c9b0a.css.map": "/peerctochat/static/css/main.073c9b0a.css.map",
+    "main.e217435c.js.map": "/peerctochat/static/js/main.e217435c.js.map",
+    "787.21f76a5f.chunk.js.map": "/peerctochat/static/js/787.21f76a5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7e22bb22.js"
+    "static/js/main.e217435c.js"
   ]
 }
